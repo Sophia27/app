@@ -96,5 +96,10 @@ h1 {
         font-size: 40px;
     }
 
+    .bg-color {
+        box-shadow: 0 0 10vw 10vw white inset;
+    }
+    
+
 
 }
